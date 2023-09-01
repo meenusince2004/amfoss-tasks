@@ -10,7 +10,7 @@ If chosen to be a part of the amfoss club, I would contribute in several meaning
 | Tasks List |    Description              | Status   |
 |------------|-----------------------------|----------| 
 | Task-00    | Install Linux               | Completed|
-| Task-01    | Terrminal Wizard            | Completed|
+| Task-01    | Terminal Wizard             | Completed|
 | Task-02    | Lessgo Hugo                 | Pending  |
 | Task-03    | Hello, World                | Pending  |
 | Task-04    | Competitive Programming     | Pending  |
