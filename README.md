@@ -11,7 +11,7 @@ If chosen to be a part of the amfoss club, I would contribute in several meaning
 |------------|-----------------------------|----------| 
 | Task-00    | Install Linux               | Completed|
 | Task-01    | Terminal Wizard             | Completed|
-| Task-02    | Lessgo Hugo                 | Pending  |
+| Task-02    | Lessgo Hugo                 | Completed|
 | Task-03    | Hello, World                | Pending  |
 | Task-04    | Competitive Programming     | Pending  |
 | Task-05    | Hypertext Mockup Language   | Pending  |
