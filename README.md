@@ -14,7 +14,7 @@ If chosen to be a part of the amfoss club, I would contribute in several meaning
 | Task-02    | Lessgo Hugo                 | Completed|
 | Task-03    | Hello, World                | Pending  |
 | Task-04    | Competitive Programming     | Pending  |
-| Task-05    | Hypertext Mockup Language   | Pending  |
+| Task-05    | Hypertext Mockup Language   | Completed|
 | Task-06    | Cricket Vault               | Pending  |
 | Task-07    | AK-47                       | Pending  |
 | Task-08    | Poke-Search                 | Pending  |
