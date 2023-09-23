@@ -1,1 +1,1 @@
-
+Since I was a beginner, just by looking at the two website designs, I felt overwhelmed and doubted my ability to clone a website, as I had never done it before. However, this experience turned out to be amazing, and I learned a lot from it. It took me a considerable amount of time, and at first, I had managed to create the HTML and add the background image. But then, I made the decision to delete everything and start from scratch. Despite the challenges, I thoroughly enjoyed the entire task
