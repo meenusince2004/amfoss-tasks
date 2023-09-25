@@ -1,0 +1,14 @@
+start = 2
+n = gets.chomp.to_i
+(start..n).each do |number|
+    if number > 1
+        (start..number).each do |i|
+            if (number % i) == 0
+                break
+            end
+            if i == number - 1
+                puts number
+            end
+        end
+    end
+end
