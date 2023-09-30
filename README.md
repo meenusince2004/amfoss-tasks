@@ -16,7 +16,7 @@ If chosen to be a part of the amfoss club, I would contribute in several meaning
 | Task-04    | Competitive Programming     | Pending     |
 | Task-05    | Hypertext Mockup Language   | Completed   |
 | Task-06    | Cricket Vault               | Pending     |
-| Task-07    | AK-47                       | Pending     |
+| Task-07    | AK-47                       | Completed   |
 | Task-08    | Poke-Search                 | Pending     |
 | Task-09    | GeoQuest                    | Pending     |
 | Task-10    | RuskOS                      | Pending     |
