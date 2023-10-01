@@ -11,13 +11,13 @@ If chosen to be a part of the amfoss club, I would contribute in several meaning
 |-------------|-----------------------------|-------------| 
 |[Introspection](https://github.com/meenusince2004/amfoss-tasks/tree/main#introspection)| Introspection               | Completed   |
 | [Task-00](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-00)     | Install Linux               | Completed   |
-| Task-01     | Terminal Wizard             | Completed   |
-| Task-02     | Lessgo Hugo                 | Completed   |
-| Task-03     | Hello, World                | quarter done|
+| [Task-01](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-01)     | Terminal Wizard             | Completed   |
+| [Task-02](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-02)     | Lessgo Hugo                 | Completed   |
+| [Task-03](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-03)   | Hello, World                | quarter done|
 | Task-04     | Competitive Programming     | Pending     |
-| Task-05     | Hypertext Mockup Language   | Completed   |
+| [Task-05](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-05)    | Hypertext Mockup Language   | Completed   |
 | Task-06     | Cricket Vault               | Pending     |
-| Task-07     | AK-47                       | Completed   |
+| [Task-07](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-07)     | AK-47                       | Completed   |
 | Task-08     | Poke-Search                 | Pending     |
 | Task-09     | GeoQuest                    | Pending     |
 | Task-10     | RuskOS                      | Pending     |
