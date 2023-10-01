@@ -10,7 +10,7 @@ If chosen to be a part of the amfoss club, I would contribute in several meaning
 | Tasks List  |    Description              | Status      |
 |-------------|-----------------------------|-------------| 
 |[Introspection](https://github.com/meenusince2004/amfoss-tasks/tree/main#introspection)| Introspection               | Completed   |
-| Task-00     | Install Linux               | Completed   |
+| [Task-00](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-00)     | Install Linux               | Completed   |
 | Task-01     | Terminal Wizard             | Completed   |
 | Task-02     | Lessgo Hugo                 | Completed   |
 | Task-03     | Hello, World                | quarter done|
