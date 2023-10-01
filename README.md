@@ -9,7 +9,7 @@ Despite my lack of technical background I believe I possess a natural knack for 
 If chosen to be a part of the amfoss club, I would contribute in several meaningful ways. Despite my initial lack of technical background, I am enthusiastic about learning and determined to rapidly acquire necessary skills. I would put in the effort to catch up on technical concepts and contribute to the club's projects and I'm also dedicated to contributing time, energy and ideas to the club's initiative. As I develop my technical skills, I anticipate personal growth that can positively impact both the club and my own future endeavors. 
 | Tasks List  |    Description              | Status      |
 |-------------|-----------------------------|-------------| 
-|Introspection| Introspection               | Completed   |
+|[Introspection](https://github.com/meenusince2004/amfoss-tasks/tree/main#introspection)| Introspection               | Completed   |
 | Task-00     | Install Linux               | Completed   |
 | Task-01     | Terminal Wizard             | Completed   |
 | Task-02     | Lessgo Hugo                 | Completed   |
