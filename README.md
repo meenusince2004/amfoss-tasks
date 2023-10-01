@@ -16,4 +16,4 @@ If chosen to be a part of the amfoss club, I would contribute in several meaning
 | [Task-03](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-03)   | Hello, World                | quarter done|
 | [Task-05](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-05)    | Hypertext Mockup Language   | Completed   |
 | [Task-07](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-07)     | AK-47                       | Completed   |
-| [Task-15](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-15)    | Project Euler               | Pending     |
+| [Task-15](https://github.com/meenusince2004/amfoss-tasks/tree/main/Task-15)    | Project Euler               | Completed 2 qns     |
